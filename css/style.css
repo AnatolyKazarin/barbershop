@@ -76,7 +76,7 @@ a {
     height: 70px;
     margin: 0 auto;
     margin-top: -22px;
-    background: url("./img/angle-div.png") center no-repeat;
+    background: url("../img/angle-div.png") center no-repeat;
   }
   .inner-page .page-header__logo {
     height: 213px;
@@ -91,7 +91,7 @@ a {
     width: 100%;
     height: 400px;
     background-color: #000000;
-    background-image: url("./img/bg-header.jpg");
+    background-image: url("../img/bg-header.jpg");
     background-repeat: no-repeat;
     background-position: center -9px;
   }
@@ -103,7 +103,7 @@ a {
     margin-top: 40px;
   }
   .page-header__logo-image {
-    background: url("./img/logotype-tablet.png");
+    background: url("../img/logotype-tablet.png");
   }
 }
 @media (min-width: 1200px) {
@@ -133,7 +133,7 @@ a {
     height: 69px;
     margin: 0 auto;
     margin-top: 19px;
-    background: url("./img/angle-div1.svg") center no-repeat;
+    background: url("../img/angle-div1.svg") center no-repeat;
   }
 }
 .main-nav__list {
@@ -854,7 +854,7 @@ input[name="rev"] {
   margin: auto;
   width: 100px;
   height: 100px;
-  background-image: url("./img/advantages-fast.svg");
+  background-image: url("../img/advantages-fast.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -866,7 +866,7 @@ input[name="rev"] {
   margin: auto;
   width: 100px;
   height: 100px;
-  background-image: url("./img/advantages-cool.svg");
+  background-image: url("../img/advantages-cool.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -878,7 +878,7 @@ input[name="rev"] {
   margin: auto;
   width: 100px;
   height: 100px;
-  background-image: url("./img/advantages-price.svg");
+  background-image: url("../img/advantages-price.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -887,7 +887,7 @@ input[name="rev"] {
   display: block;
   width: auto;
   height: 35px;
-  background-image: url("./img/connector1.svg");
+  background-image: url("../img/connector1.svg");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -912,7 +912,7 @@ input[name="rev"] {
     width: auto;
     height: 10px;
     margin-top: 40px;
-    background-image: url("./img/divider.png");
+    background-image: url("../img/divider.png");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -932,7 +932,7 @@ input[name="rev"] {
     display: block;
     width: auto;
     height: 69px;
-    background-image: url("./img/angle-div.png");
+    background-image: url("../img/angle-div.png");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -978,7 +978,7 @@ input[name="rev"] {
     display: block;
     width: auto;
     height: 69px;
-    background-image: url("./img/angle-desktop.png");
+    background-image: url("../img/angle-desktop.png");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -1033,7 +1033,7 @@ input[name="rev"] {
   left: 0;
   width: 100%;
   height: 2px;
-  background-image: url("./img/splitter.svg");
+  background-image: url("../img/splitter.svg");
 }
 .news__item:nth-child(2) .news__text::after {
   display: none;
@@ -1070,7 +1070,7 @@ input[name="rev"] {
   top: 50px;
   width: 50px;
   height: 10px;
-  background-image: url("./img/flag-bottom.svg");
+  background-image: url("../img/flag-bottom.svg");
 }
 .news__day {
   padding-top: 10px;
@@ -1251,7 +1251,7 @@ input[name="rev"] {
   display: block;
   width: auto;
   height: 36px;
-  background-image: url("./img/connector2.svg");
+  background-image: url("../img/connector2.svg");
   background-position: bottom;
   background-repeat: no-repeat;
 }
@@ -1340,7 +1340,7 @@ input[name="rev"] {
     width: 15px;
     height: 15px;
     margin: 0 auto;
-    background: url("./img/left-arrow.svg") center no-repeat;
+    background: url("../img/left-arrow.svg") center no-repeat;
   }
   .reviews__next::after {
     content: "";
@@ -1348,7 +1348,7 @@ input[name="rev"] {
     width: 15px;
     height: 15px;
     margin: 0 auto;
-    background: url("./img/right-arrow.svg") center no-repeat;
+    background: url("../img/right-arrow.svg") center no-repeat;
   }
   .reviews__prev:hover,
   .reviews__next:hover {
@@ -1459,7 +1459,7 @@ input[name="rev"] {
   display: block;
   width: 107px;
   height: 107px;
-  background-image: url("./img/vk-icon.png");
+  background-image: url("../img/vk-icon.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1468,7 +1468,7 @@ input[name="rev"] {
   display: block;
   width: 107px;
   height: 107px;
-  background-image: url("./img/facebook-icon.png");
+  background-image: url("../img/facebook-icon.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1477,7 +1477,7 @@ input[name="rev"] {
   display: block;
   width: 107px;
   height: 107px;
-  background-image: url("./img/insta-icon.png");
+  background-image: url("../img/insta-icon.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -1636,7 +1636,7 @@ input[name="rev"] {
   display: block;
   width: 320px;
   height: 35px;
-  background: url("./img/connector3.svg") center no-repeat;
+  background: url("../img/connector3.svg") center no-repeat;
 }
 .examples__button {
   display: none;
@@ -1705,15 +1705,15 @@ input[name="rev"] {
   vertical-align: middle;
 }
 .examples__cut::before {
-  background: url("./img/scissors-icon.svg") center no-repeat;
+  background: url("../img/scissors-icon.svg") center no-repeat;
 }
 .examples__beard::before {
   padding-right: 30px;
-  background: url("./img/beard-icon.svg") center no-repeat;
+  background: url("../img/beard-icon.svg") center no-repeat;
 }
 .examples__mustache::before {
   padding-right: 27px;
-  background: url("./img/mustache-icon.svg") center no-repeat;
+  background: url("../img/mustache-icon.svg") center no-repeat;
   background-position: 0 center;
 }
 .examples__item .examples__photo--best {
@@ -1734,7 +1734,7 @@ input[name="rev"] {
   position: relative;
   top: -102px;
   left: -3px;
-  background: url("./img/label.png") center no-repeat;
+  background: url("../img/label.png") center no-repeat;
 }
 .examples__photo {
   width: 280px;
@@ -1822,7 +1822,7 @@ input[name="rev"] {
     display: block;
     width: 768px;
     height: 68px;
-    background: url("./img/connector5.svg") center no-repeat;
+    background: url("../img/connector5.svg") center no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1876,7 +1876,7 @@ input[name="rev"] {
     position: relative;
     left: 282px;
     top: 13px;
-    background: url("./img/label2.png") center no-repeat;
+    background: url("../img/label2.png") center no-repeat;
   }
   .examples__item .examples__photo--best {
     width: 480px;
@@ -1918,7 +1918,7 @@ input[name="rev"] {
   display: block;
   width: 320px;
   height: 35px;
-  background: url("./img/connector4.svg") center no-repeat;
+  background: url("../img/connector4.svg") center no-repeat;
 }
 .pricelist__wrapper {
   margin-bottom: 35px;
@@ -2336,7 +2336,7 @@ input[name="rev"] {
   display: block;
   width: 320px;
   height: 35px;
-  background: url("./img/connector6.svg") center no-repeat;
+  background: url("../img/connector6.svg") center no-repeat;
 }
 @media (min-width: 768px) {
   .form {
@@ -2550,12 +2550,12 @@ input[name="rev"] {
   margin: 2px 20px;
 }
 .modal__inputs input[type="text"] {
-  background-image: url("./img/user-icon.png");
+  background-image: url("../img/user-icon.png");
   background-position: 245px center;
   background-repeat: no-repeat;
 }
 .modal__inputs input[type="password"] {
-  background-image: url("./img/user-password.png");
+  background-image: url("../img/user-password.png");
   background-position: 245px center;
   background-repeat: no-repeat;
 }
