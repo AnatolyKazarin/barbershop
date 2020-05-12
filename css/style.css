@@ -102,9 +102,6 @@ a {
     margin: 0 auto;
     margin-top: 40px;
   }
-  .page-header__logo-image {
-    background: url("../img/logotype-tablet.png");
-  }
 }
 @media (min-width: 1200px) {
   .page-header {
