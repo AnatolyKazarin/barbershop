@@ -2,13 +2,13 @@
   font-family: "PT Sans Narrow";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/PTSansNarrow.woff2"), format("woff2"), url("../fonts/PTSansNarrow.woff"), format("woff");
+  src: url("../fonts/PTSansNarrow.woff2"), format("woff2"), url("../fonts/PTSansNarrow.woff"), format("woff"), url("../fonts/PTSansNarrow.ttf"), format("embedded-opentype");
 }
 @font-face {
   font-family: "PT Sans Narrow";
   font-weight: bold;
   font-style: normal;
-  src: url("../fonts/PTSansNarrowBold.woff2"), format("woff2"), url("../fonts/PTSansNarrowBold.woff"), format("woff");
+  src: url("../fonts/PTSansNarrowBold.woff2"), format("woff2"), url("../fonts/PTSansNarrowBold.woff"), format("woff"), url("../fonts/PTSansNarrowBold.ttf"), format("embedded-opentype");
 }
 body {
   min-width: 320px;
